@@ -1,3 +1,5 @@
+QHacks 2019 -- Brant Vanderveen, Jack Guebert, Mike MacKenzie, Noah Rottman
+
 ## Scraping Tweets
 
 TweetScraper can get tweets from Twitter Search. It is built on Scrapy without using Twitter's APIs. The crawled data is not as clean as the one obtained by the APIs, but the benefits are you can get rid of the API's rate limits and restrictions. Ideally, you can get all the data from Twitter Search.
